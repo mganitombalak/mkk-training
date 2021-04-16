@@ -1,0 +1,18 @@
+com/gildedrose/Item.java
+ com.gildedrose.Item
+com/gildedrose/quality/ConjuredEvaluationer.java
+ com.gildedrose.quality.ConjuredEvaluationer
+com/gildedrose/EvaluationerFactory.java
+ com.gildedrose.EvaluationerFactory
+com/gildedrose/quality/AgedBrieEvaluationer.java
+ com.gildedrose.quality.AgedBrieEvaluationer
+com/gildedrose/quality/BackstagePassesEvaluationer.java
+ com.gildedrose.quality.BackstagePassesEvaluationer
+com/gildedrose/quality/SulfurasEvaluationer.java
+ com.gildedrose.quality.SulfurasEvaluationer
+com/gildedrose/quality/IItemEvaluationer.java
+ com.gildedrose.quality.IItemEvaluationer
+com/gildedrose/GildedRose.java
+ com.gildedrose.GildedRose
+com/gildedrose/quality/ItemEvaluationer.java
+ com.gildedrose.quality.ItemEvaluationer
